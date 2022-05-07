@@ -1,0 +1,44 @@
+[33mcommit 2331130046d16a852d4eaf4739c69d1eefac0a26[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Larisa Fernandez <58145392+larisfdz@users.noreply.github.com>
+Date:   Thu May 5 22:21:04 2022 +0300
+
+    Create text_again.txt
+
+[33mcommit 779cb7c428bfcc722b8bfb9ee001a95c74a128f5[m
+Author: Larisa Fernandez <58145392+larisfdz@users.noreply.github.com>
+Date:   Thu May 5 22:17:33 2022 +0300
+
+    Update new_text.txt
+
+[33mcommit e2f3925cd1addd03c897f48429ac614a94e647be[m
+Merge: 09a082c 3cebf9a
+Author: Larisa Fernandez <58145392+larisfdz@users.noreply.github.com>
+Date:   Thu May 5 22:14:16 2022 +0300
+
+    Merge pull request #1 from larisfdz/master
+    
+    Added a new folder and file
+
+[33mcommit 3cebf9abcde622657d412552822b5a02c79b47fb[m
+Author: Larisa <larisfdz@gmail.com>
+Date:   Thu May 5 20:37:34 2022 +0300
+
+    Added a new folder and file
+
+[33mcommit 09a082cdf7e893590d1d8d18a376c07fd15c7be8[m
+Author: Larisa Fernandez <58145392+larisfdz@users.noreply.github.com>
+Date:   Thu May 5 20:23:11 2022 +0300
+
+    Create .gitignore
+
+[33mcommit 50c40d2839b4d2e02e04108e1941e2e20ad6fe7e[m
+Author: Larisa Fernandez <58145392+larisfdz@users.noreply.github.com>
+Date:   Thu May 5 20:21:51 2022 +0300
+
+    Added license
+
+[33mcommit 0280450f11c2ecf42863e9bba4c90df8dc3ba114[m
+Author: Larisa Fernandez <58145392+larisfdz@users.noreply.github.com>
+Date:   Thu May 5 20:20:03 2022 +0300
+
+    Created README
